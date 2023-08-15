@@ -9,6 +9,8 @@ sesanchezmo@unal.edu.co
 
 Inteligencia artificial y mini-robots 2023-II
 
+[[./EJERCICIOS.pdf][Versión pdf]]
+
 * Inteligencia
 
 Definición propuesta: /Capacidad de asimilación, relacionamiento, generación y aplicación de información./
@@ -23,7 +25,7 @@ Conceptos clave identificadas en la clase relacionados con inteligencia:
 - Decisión
 
 * Análisis
-[[youtube:https://www.youtube.com/watch?v=JsmKUCiPHUY&t=7s][Link video]]
+[[https://www.youtube.com/watch?v=JsmKUCiPHUY&t=7s][Link video]]
 
 Los xenobots así como los gemelos robóticos son ejemplos de la asimilación tecnológica de la naturaleza, y son casos donde la inteligencia artificial puede lucirse como herramienta, se ajustan a ciertos enfoques particulares y se pueden identificar diferentes tipos de sistemas en ellos.
 
