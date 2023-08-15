@@ -1,0 +1,35 @@
+#+TITLE: 1. Panorama de la IA --- Ejercicios
+#+AUTHOR: Sergio Sánchez Moreno
+#+EMAIL: sesanchezmo@unal.edu.co
+#+COURSE: Inteligencia artificial y mini-robots 2023-II
+
+
+* Inteligencia
+
+Definición propuesta: /Capacidad de asimilación, relacionamiento, generación y aplicación de información./
+
+Conceptos clave identificadas en la clase relacionados con inteligencia:
+- Capacidad
+- Problemas
+- Conocimiento/Información
+- Emergencia
+- Entorno
+- Solucionar
+- Decisión
+
+* Análisis
+[[youtube:https://www.youtube.com/watch?v=JsmKUCiPHUY&t=7s][Link video]]
+
+Los xenobots así como los gemelos robóticos son ejemplos de la asimilación tecnológica de la naturaleza, y son casos donde la inteligencia artificial puede lucirse como herramienta, se ajustan a ciertos enfoques particulares y se pueden identificar diferentes tipos de sistemas en ellos.
+
+Estas creaciones no son suficientemente amplias y generalizables como para empezar a hablar de la inteligencia artificial ancha, pero sin duda abarcan un conjunto razonablemente amplio de problemas para ser estrictamente inteligencias estrechas: los xenobots se enfrentan con cuestiones de locomoción y física, además de viabilidad biológica y reproducción; por su parte, los robots de apariencia humana tienen que imitar las complejas sutilezas del comportamiento, apariencia y gesticulación humana, sino también el reto de comunicación y aceptación por parte de verdaderos humanos.
+
+Los enfoques de la inteligencia artificial predominablemente aplicados en estas invenciones son el de agentes y los sistemas bio-inspirados. Los xenobots se comportan como agentes tanto en su simulación como entes reales, interactúa con el mundo y otros agentes, y puede reaccionar (procesar) esta interacción (información) para incluso producir replicas. Los humanoides robóticos, son tan agentes como lo es un humano tradicional, aunque con una colección de sensores escasa y mucho más limitada en comparación, bajo su propósito de presentarse ante otras personas como homo sapiens auténticos, necesariamente deben interactuar y procesar la información del mundo humano.
+
+La inspiración biológica de ambas creaciones no necesita mayor explicación, ambos imitan sistemas y mecanismos que emergieron naturalmente. Es notable sin embargo la situación particular de los xenobots, que van un paso más allá de estar inspirados, pues son en si mismos sistemas biológicos, funcionales y con una inteligencia tan legitima como la de muchos microorganismos, acá el adjetivo "artificial" pierde fuerza por el medio en que se presenta esta inteligencia, aunque permanece debido a su construcción deliberada.
+
+Podemos apreciar múltiples de las clasificaciones de sistemas en estas inteligencias artificiales, particularmente según el nivel de especificidad con que se vean: las células que componen los xenobots tienen comportamientos aparentemente determinados y fijos según los estímulos (o entradas) que se les provean, así que no son muy distintos de un circuito eléctrico y pueden considerarse sistemas simples; según como se planteen las relaciones entre las células de los xenobots se puede hallar un sistema complicado, donde grupos especializados de células trabajan de forma suficientemente independiente para la maquinaria o sistema que es el xenobot; el sistema caóticamente desorganizado aparece con el entorno biológico en que se introducen los bots, hay tantos componentes en juego que la relación directa entre estos tiene a la nulidad, por últimos es la interacción de estos agentes con el entorno biológico y con otros agentes lo que podemos entender como un sistema complejo. Es también destacable como se logró traducir la complejidad computacional de los agentes en un sistema vivo, son pequeños computadores orgánicos.
+
+Hay también varias aproximaciones a estos sistemas presentes en los gemelos robóticos, aunque el mas destacable es el sistema caótico en que se desempeñarían, es decir, el mundo humano, seres de pensamientos tan espontáneos o incluso erráticos, pero que pueden a su vez organizarse y crear sistemas complejos.
+
+Un tema predominante en el vídeo que no aborda a profundidad el documento es las implicaciones éticas de estas inteligencias artificiales, las repercusiones sociales, el desbalance de poder o influencia al tener cierto grupo limitado acceso a las IAs, o incluso el peligro de los fascinantes comportamientos emergentes. El tema es complejo, pero como estudiantes de este podemos tener una perspectiva optimista de que entre más personas puedan tener la comprensión y el conocimiento necesario para afrontar el mundo de la inteligencia artificial, habrá balance un suficiente para sacar provecho en son del bien común.
