@@ -3,6 +3,11 @@
 #+EMAIL: sesanchezmo@unal.edu.co
 #+COURSE: Inteligencia artificial y mini-robots 2023-II
 
+Sergio Sánchez Moreno
+
+sesanchezmo@unal.edu.co
+
+Inteligencia artificial y mini-robots 2023-II
 
 * Inteligencia
 
