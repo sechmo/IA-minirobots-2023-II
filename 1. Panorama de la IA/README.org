@@ -3,6 +3,7 @@
 #+EMAIL: sesanchezmo@unal.edu.co
 #+COURSE: Inteligencia artificial y mini-robots 2023-II
 
+[[pdf:EJERCICIOS.pdf::1][Versión pdf]]
 
 * Inteligencia
 
