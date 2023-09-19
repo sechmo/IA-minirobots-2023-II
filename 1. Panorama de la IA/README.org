@@ -1,9 +1,10 @@
 #+TITLE: 1. Panorama de la IA --- Ejercicios
-#+AUTHORS: Sergio Sánchez Moreno y Juan Ricardo Veloza
+#+AUTHOR: Sergio Sánchez Moreno, Juan Ricardo Veloza
 #+EMAIL: sesanchezmo@unal.edu.co
 #+COURSE: Inteligencia artificial y mini-robots 2023-II
 
-Sergio Sánchez Moreno
+
+Sergio Sánchez Moreno y Juan Ricardo Veloza
 
 sesanchezmo@unal.edu.co
 
