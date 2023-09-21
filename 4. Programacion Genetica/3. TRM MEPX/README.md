@@ -18,6 +18,7 @@ We ran the algorithm with the following parameters
 ![image](https://github.com/sechmo/IA-minirobots-2023-II/assets/70355173/f53c2629-2f8d-46f1-9e86-432f5c5e48f8)
 
 ## RESULTS
+[Project file (data included)](https://github.com/sechmo/IA-minirobots-2023-II/blob/master/4.%20Programacion%20Genetica/3.%20TRM%20MEPX/TRM.xml)
 
 The final result got a validation error of 595.55 and as can be seen, the resulting program, does diverge significantly in prediction outside of training data
 
