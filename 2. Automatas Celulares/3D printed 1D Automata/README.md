@@ -42,3 +42,13 @@ This is a photo of the printing process. The printer used was an Ultimaker 3 Ext
 The final result indeed exhibits the expected patterns, emerging towers similar to those of Wolfram's Automatas.
 
 ![](./result.jpeg)
+
+
+## How to print
+
+Notice that printing something similar depends on your printer configurations and abilities. The most important setting is retraction, the structure emerge due to the stringing between the poles of the model. Consequently better results are achieved with fast printing speeds.
+
+we used UltiMaker Cura Slicer to print.
+![](./slicer.png)
+
+We attach the stl model and the slice project (`base_with_poles full.stl` and `UM3E_base_with_poles.3mf`)
